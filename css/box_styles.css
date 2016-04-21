@@ -1,0 +1,36 @@
+/* this is our box styles doc*/
+.box-1 {
+height: 300px;
+width: 300px;
+background-color: red;
+}
+
+.sub-box-2{
+  height: 75px;
+  width: 100px;
+  background: yellow;
+  padding: 25px 10px 30px 15px;
+}
+.box-2 {
+clear: both;
+height: 500px;
+width: 300px;
+background-color: blue;
+}
+
+.box-3 {
+height: 400px;
+width: 250px;
+background-color: green;
+}
+.box-4 {
+height: 200px;
+width: 1200px;
+background-color: pink;
+}
+.sub-box-41 {
+  height: 75px;
+  width: 75px;
+  background-color: gray;
+  padding: 60px 60px 60px 60px
+}
